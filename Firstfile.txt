@@ -2,3 +2,5 @@
 
 Welcome to the newfile
 Thank you!
+test 1
+test2
